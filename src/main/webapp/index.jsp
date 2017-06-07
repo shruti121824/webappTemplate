@@ -1,6 +1,6 @@
 <html>
 <body>
 <h2>Hello World!</h2>
-<img src=D:\Users\sjamgade\Downloads\download.jpg>
+<img src="pic_mountain.jpg" alt="Mountain View" style="width:304px;height:228px;">
 </body>
 </html>
