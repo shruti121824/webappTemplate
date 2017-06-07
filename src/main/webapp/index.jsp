@@ -59,7 +59,7 @@ article {
   <p>At Capgemini we believe in giving equal opportunity to deserving candidates and thus live by our principles of Diversity and Inclusion. We also strive to be a Sustainable Organization and believe in doing our bit to support various causes through our CSR activites. To read more, visit the India CR&S hub.</p>
 </article>
 
-<footer>Thank You !!</footer>
+<footer><h2>Thank You !!</h2></footer>
 
 </div>
 <marquee><h3><a href="http://talent.capgemini.com">Click on the link to visit the capgemini site</a></h3></marquee>
