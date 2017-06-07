@@ -62,6 +62,6 @@ article {
 <footer>Thank You !!</footer>
 
 </div>
-
+<marquee><h3><a href="http://talent.capgemini.com">Click on the link to visit the capgemini site</a></h3></marquee>
 </body>
 </html>
